@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "69d55d1189fb5fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2596dcb752b1674f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f815757f874063ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV/DBMS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DBMS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f5e2a03bf3027f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67fe32228629747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e666d225ecae3e15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "db6e6044237e8297",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Определения",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "90fd4ae2e98dc72e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "08fe60a8a0c0fa0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a318e1ef00bc0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246ccc7cedb8f910",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CV/Протоколы связи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Протоколы связи"
+            }
+          },
+          {
+            "id": "35ec1333bdea2b93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "e3e9a11bcfb5ce7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5fbfba448590693b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-08-21.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2025-08-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f815757f874063ed",
+  "lastOpenFiles": [
+    "Academy/~$vetSQL.odt",
+    "CV/Протоколы связи.md",
+    "README.md",
+    "CV/DBMS.md",
+    "Matrices/С1/VCS Git/Теория/Git.md",
+    "Matrices/С1/VCS Git/Теория/Git часто используемые команды.md",
+    "Pasted image 20250822161641.png",
+    "Matrices/С1/VCS Git/Ответы.md",
+    "CV",
+    "CV/Preparation/Preparation.odt",
+    "CV/Preparation",
+    "CV/CV Пекуш Руслан C#.odt",
+    "CV/CV Пекуш Руслан C#.docx",
+    "CV",
+    "Matrices/С1/VCS Git/Теория",
+    "Matrices/С1/VCS Git -- мой/Навигация.md",
+    "Git commit.md",
+    "Matrices/С1/VCS Git -- мой/Общие понятия/Ветка.md",
+    "Matrices/С1/VCS Git -- мой/Общие понятия/Репозиторий.md",
+    "Matrices/С1/VCS Git -- мой/Общие понятия/Папка .git.md",
+    "Matrices/С1/VCS Git -- мой/Общие понятия/Что такое Git.md",
+    "Matrices/С1/vcs Git/Git.md",
+    "Без названия.canvas",
+    "Matrices/С1/VCS Git -- мой/Команды Git/Git branch, git checkout.md",
+    "Matrices/С1/vcs Git/Git cherry-pick.md",
+    "Matrices/С1/VCS Git -- мой/Общие понятия",
+    "Matrices/С1/VCS Git -- мой/Команды Git",
+    "Matrices/С1/Без названия.md",
+    "Matrices/С1/VCS Git",
+    "Matrices/С1/vcs Git/Checkout.md",
+    "Matrices/С1/vcs Git/Конфликт слияния.md",
+    "Matrices/С1/vcs Git/Представители  коммитов и как с ними работать в Git.md",
+    "Без названия.md",
+    "Без названия 1.canvas",
+    "Matrices/С1/vcs Git/Слияние веток.md",
+    "Matrices/С1/vcs Git/Revert.md",
+    "Matrices/С1/vcs Git/Restore.md",
+    "Matrices/С1/vcs Git/Reset.md",
+    "Matrices/С1/vcs Git/Rebase.md"
+  ]
+}
