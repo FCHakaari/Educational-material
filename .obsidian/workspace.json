@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/DBMS.md",
+                "file": "CV/Other.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBMS"
+              "title": "Other"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Определения",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,14 +171,18 @@
   },
   "active": "f815757f874063ed",
   "lastOpenFiles": [
-    "Academy/~$vetSQL.odt",
-    "CV/Протоколы связи.md",
-    "README.md",
+    "Без названия.md",
+    "CV/Other.md",
+    "CV/Development Tools.md",
     "CV/DBMS.md",
+    "Matrices/С1/VCS Git/Ответы.md",
     "Matrices/С1/VCS Git/Теория/Git.md",
+    "CV/Aplication and WebServers.md",
+    "CV/Application Type.md",
+    "Academy/~$vetSQL.odt",
+    "README.md",
     "Matrices/С1/VCS Git/Теория/Git часто используемые команды.md",
     "Pasted image 20250822161641.png",
-    "Matrices/С1/VCS Git/Ответы.md",
     "CV",
     "CV/Preparation/Preparation.odt",
     "CV/Preparation",
@@ -199,16 +203,12 @@
     "Matrices/С1/VCS Git -- мой/Общие понятия",
     "Matrices/С1/VCS Git -- мой/Команды Git",
     "Matrices/С1/Без названия.md",
-    "Matrices/С1/VCS Git",
     "Matrices/С1/vcs Git/Checkout.md",
     "Matrices/С1/vcs Git/Конфликт слияния.md",
     "Matrices/С1/vcs Git/Представители  коммитов и как с ними работать в Git.md",
-    "Без названия.md",
     "Без названия 1.canvas",
     "Matrices/С1/vcs Git/Слияние веток.md",
     "Matrices/С1/vcs Git/Revert.md",
-    "Matrices/С1/vcs Git/Restore.md",
-    "Matrices/С1/vcs Git/Reset.md",
-    "Matrices/С1/vcs Git/Rebase.md"
+    "Matrices/С1/vcs Git/Restore.md"
   ]
 }
